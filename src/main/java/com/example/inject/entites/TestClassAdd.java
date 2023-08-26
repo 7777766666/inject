@@ -43,6 +43,12 @@ public class TestClassAdd {
     //ещё немного добавить просто
 
     private Integer someMethod(){
-        return 55;
+        return 777;
     }
+
+    public String hello(){
+        return "Hello world";
+    }
+
+    //это сам дописал
 }
