@@ -31,7 +31,7 @@ public class TestClassAdd {
     @Column(name = "id")
     private String name;
 
-    @Column(name = "car_speed")
+    @Column(name = "car_speed_super_turbo")
     private Integer speed;
 
     @Column(name = "new_price")
