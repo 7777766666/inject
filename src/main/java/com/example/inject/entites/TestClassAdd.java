@@ -32,5 +32,10 @@ public class TestClassAdd {
     private Integer speed;
 
     @Column(name = "new_price")
-    private Integer newPrice;  //new information !!!!!!!!!!!!!
+    private Integer newPrice;
+
+
+    private Integer someMethod(){
+        return 55;
+    }
 }
