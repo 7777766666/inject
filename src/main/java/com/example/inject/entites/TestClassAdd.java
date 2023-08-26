@@ -34,7 +34,6 @@ public class TestClassAdd {
     @Column(name = "new_price")
     private Integer newPrice;
 
-
     private void hello88(){
         System.out.println("one");
     }
