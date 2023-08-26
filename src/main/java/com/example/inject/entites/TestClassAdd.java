@@ -15,7 +15,6 @@ import lombok.ToString;
 
 import java.math.BigDecimal;
 
-
 @AllArgsConstructor
 @NoArgsConstructor
 @EqualsAndHashCode
@@ -38,7 +37,7 @@ public class TestClassAdd {
     private Integer newPrice;
 
     @Column(name = "parts")
-    private BigDecimal parts; //new information ?????
+    private BigDecimal parts;
 
     private void hello88(){
         System.out.println("one");
