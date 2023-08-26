@@ -41,8 +41,6 @@ public class TestClassAdd {
     private BigDecimal parts; //new information ?????
 
     // I do this
-    private String return666(){
-        return "666";
-    }
+//git stash
     //I do this
 }
