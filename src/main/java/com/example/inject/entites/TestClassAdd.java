@@ -46,7 +46,3 @@ public class TestClassAdd {
         System.out.println("two");
     }
 }
-
-//wright in master
-// delete
-// and second commit
