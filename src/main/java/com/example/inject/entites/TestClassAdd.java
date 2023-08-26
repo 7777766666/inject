@@ -41,4 +41,8 @@ public class TestClassAdd {
     private BigDecimal parts; //new information ?????
 
     //ещё немного добавить просто
+
+    private Integer someMethod(){
+        return 55;
+    }
 }
