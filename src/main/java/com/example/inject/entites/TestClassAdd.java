@@ -36,9 +36,9 @@ public class TestClassAdd {
 
 
     private void hello88(){
-        System.out.println("88");
+        System.out.println("8822");
     }
     private void hello99(){
-        System.out.println("99");
+        System.out.println("9922");
     }
 }
