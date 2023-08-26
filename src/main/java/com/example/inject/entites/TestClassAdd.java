@@ -41,9 +41,9 @@ public class TestClassAdd {
     private BigDecimal parts; //new information ?????
 
     private String return2() {
-        return "2";
+        return "first";
     }
     private String return1() {
-        return "1";
+        return "second";
     }
 }
