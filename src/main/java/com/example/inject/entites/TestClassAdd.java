@@ -40,9 +40,12 @@ public class TestClassAdd {
     @Column(name = "parts")
     private BigDecimal parts; //new information ?????
 
-    //ещё немного добавить просто
 
-    private Integer someMethod(){
-        return 55;
+    //удалить пробелы и доавить 1 метод, а 2 убрать не нужных
+
+    private Integer return666(){
+        return 666;
     }
+
+
 }
