@@ -36,6 +36,6 @@ public class TestClassAdd {
 
 
     private void hello(){
-        System.out.println("HELLO world!!!!!!!");
+        System.out.println("9999");
     }
 }
