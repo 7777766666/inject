@@ -40,7 +40,10 @@ public class TestClassAdd {
     @Column(name = "parts")
     private BigDecimal parts; //new information ?????
 
-    private void hello(){
-        System.out.println("9999");
+    private void hello4(){
+        System.out.println("4");
+    }
+    private void hello5(){
+        System.out.println("5");
     }
 }
