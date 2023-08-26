@@ -13,9 +13,6 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 
-import java.math.BigDecimal;
-
-
 @AllArgsConstructor
 @NoArgsConstructor
 @EqualsAndHashCode
@@ -31,7 +28,7 @@ public class TestClassAdd {
     @Column(name = "id")
     private String name;
 
-    @Column(name = "car_speed")
+    @Column(name = "car_speed_super_turbo")
     private Integer speed;
 
     @Column(name = "new_price")
@@ -40,7 +37,7 @@ public class TestClassAdd {
     @Column(name = "parts")
     private BigDecimal parts; //new information ?????
 
-    public void hello(){
-        System.out.println("hello");
+    private void hello(){
+        System.out.println("Hello World!!!!!!!!!!!!");
     }
 }
