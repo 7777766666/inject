@@ -38,7 +38,8 @@ public class TestClassAdd {
 
     @Column(name = "parts")
     private BigDecimal parts; //new information ?????
-    private String return666(){
-        return "HELLO WORLD";
+
+    private void hello() {
+        System.out.println("HELLO world!!!!!!!");
     }
 }
