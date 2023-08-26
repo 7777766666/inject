@@ -46,6 +46,4 @@ public class TestClassAdd {
     private Integer return666(){
         return 666;
     }
-
-
 }
