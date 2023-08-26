@@ -13,9 +13,6 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 
-import java.math.BigDecimal;
-
-
 @AllArgsConstructor
 @NoArgsConstructor
 @EqualsAndHashCode
@@ -31,9 +28,9 @@ public class TestClassAdd {
     @Column(name = "id")
     private String name;
 
-    @Column(name = "car_speed")
+    @Column(name = "car_speed_super_turbo")
     private Integer speed;
 
     @Column(name = "new_price")
-    private Integer newPrice;  //new information
+    private Integer newPrice;  //new information !!!!!!!!!!!!!
 }
