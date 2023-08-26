@@ -36,9 +36,9 @@ public class TestClassAdd {
 
 
     private void hello88(){
-        System.out.println("8822");
+        System.out.println("8822 is first");
     }
     private void hello99(){
-        System.out.println("9922");
+        System.out.println("9922 is second");
     }
 }
