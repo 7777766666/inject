@@ -48,3 +48,5 @@ public class TestClassAdd {
 }
 
 //wright in master
+// delete
+// and second commit
