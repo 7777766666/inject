@@ -31,7 +31,7 @@ public class TestClassAdd {
     @Column(name = "id")
     private String name;
 
-    @Column(name = "car_speed_super_turbo")
+    @Column(name = "car_speed")
     private Integer speed;
 
     @Column(name = "new_price")
@@ -40,10 +40,9 @@ public class TestClassAdd {
     @Column(name = "parts")
     private BigDecimal parts; //new information ?????
 
-
-    //удалить пробелы и доавить 1 метод, а 2 убрать не нужных
-
-    private Integer return666(){
-        return 666;
+    // I do this
+    private String return666(){
+        return "666";
     }
+    //I do this
 }
