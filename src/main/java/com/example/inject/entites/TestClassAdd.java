@@ -35,9 +35,7 @@ public class TestClassAdd {
     private Integer speed;
 
     @Column(name = "new_price")
-    private Integer newPrice;
-
-
+    private Integer newPrice;  //new information
 
     @Column(name = "parts")
     private BigDecimal parts; //new information
