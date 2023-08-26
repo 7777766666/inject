@@ -35,7 +35,7 @@ public class TestClassAdd {
     private Integer newPrice;
 
 
-    private Integer someMethod(){
-        return 55;
+    private void hello(){
+        System.out.println("Hello World!!!!!!!!!!!!");
     }
 }
