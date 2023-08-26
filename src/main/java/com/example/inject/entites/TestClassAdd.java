@@ -42,5 +42,4 @@ public class TestClassAdd {
     }
 }
 
-// delete
-// and second commit
+//new information
