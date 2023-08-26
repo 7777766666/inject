@@ -31,4 +31,6 @@ public class TestClassAdd {
     @Column(name = "car_speed")
     private Integer speed;
 
+    //new information
+
 }
