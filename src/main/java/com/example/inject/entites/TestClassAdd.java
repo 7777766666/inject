@@ -39,4 +39,6 @@ public class TestClassAdd {
 
     @Column(name = "parts")
     private BigDecimal parts; //new information ?????
+
+    //ещё немного добавить просто
 }
