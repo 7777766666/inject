@@ -31,19 +31,20 @@ public class TestClassAdd {
     @Column(name = "id")
     private String name;
 
-    @Column(name = "car_speed_super_turbo")
+    @Column(name = "car_speed")
     private Integer speed;
 
     @Column(name = "new_price")
-    private Integer newPrice;
+    private Integer newPrice;  //new information !!!!
 
     @Column(name = "parts")
-    private BigDecimal parts;
+    private BigDecimal parts; //new information ?????
 
-    private void hello88(){
-        System.out.println("8822");
+    private String return2() {
+        return "first";
     }
-    private void hello99(){
-        System.out.println("9922");
+
+    private String return1() {
+        return "second";
     }
 }
