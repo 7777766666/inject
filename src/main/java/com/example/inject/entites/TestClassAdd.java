@@ -45,6 +45,9 @@ public class TestClassAdd {
     private void hello99(){
         System.out.println("two");
     }
+    private Integer return666(){
+        return 666;
+    }
 }
 
 //000
