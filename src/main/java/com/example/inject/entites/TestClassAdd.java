@@ -48,3 +48,4 @@ public class TestClassAdd {
 }
 
 //new information
+//щштршзтршщ0тзщgit status
