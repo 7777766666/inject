@@ -47,8 +47,10 @@ public class TestClassAdd {
     }
 }
 
+//000
 //new information
 //щштршзтршщ0тзщgit status
 //спорт
 //test
 //final
+//stop
