@@ -46,7 +46,7 @@ public class TestClassAdd {
         System.out.println("two");
     }
     private Integer return777(){
-        return 333;
+        return 12345;
     }
 }
 
