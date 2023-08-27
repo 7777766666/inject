@@ -45,15 +45,14 @@ public class TestClassAdd {
     private void hello99(){
         System.out.println("two");
     }
-    private Integer return999(){
-        return 999;
+    private Integer return777(){
+        return 777;
     }
 }
 
 //000
 //start
 //new information
-//щштршзтршщ0тзщgit status
 //спорт
 //test
 //latest
