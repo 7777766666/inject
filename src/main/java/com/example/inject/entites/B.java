@@ -21,7 +21,7 @@ import lombok.ToString;
 @Setter
 @Entity
 @Table(name = "b", schema = "test")
-public class B {
+public class B extends BaseAAndB{
 
     @Id()
     @GeneratedValue(strategy = GenerationType.IDENTITY)

@@ -1,15 +1,15 @@
 package com.example.inject.entites;
 
+import jakarta.persistence.Transient;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 @RequiredArgsConstructor
 @Data
 public class BaseAAndB {
 
-    private LocalDateTime localDateTime;
-
+    @Transient()
+    private LocalDateTime createDate;
 }
