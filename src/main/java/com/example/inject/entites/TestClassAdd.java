@@ -49,13 +49,3 @@ public class TestClassAdd {
         return 12345;
     }
 }
-
-//000
-//start
-//new information
-//спорт
-//test
-//latest
-//9999
-//final
-//stop
